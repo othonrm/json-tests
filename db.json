@@ -7,7 +7,7 @@
       },
       {
          "id":2,
-         "title":"Type 2"
+         "title":"Type 2",
          "fields": ["fieldA", "fieldB"]
       },
       {
